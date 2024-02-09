@@ -47,4 +47,4 @@ Para preguntas, sugerencias, o contribuciones, por favor, no dudes en abrir un i
 
 ¡Espero que encuentres este recurso útil para tu aprendizaje y trabajo con patrones de diseño en Python!
 
-Este documento refleja un enfoque educativo hacia la enseñanza de patrones de diseño en Python, proporcionando una descripción detallada de lo que los usuarios pueden esperar encontrar en el repositorio, cómo pueden interactuar con él, y cómo pueden contribuir. &#8203;``【oaicite:0】``&#8203;
+> Este documento refleja un enfoque educativo hacia la enseñanza de patrones de diseño en Python, proporcionando una descripción detallada de lo que los usuarios pueden esperar encontrar en el repositorio, cómo pueden interactuar con él, y cómo pueden contribuir.
